@@ -1,10 +1,22 @@
+### 🧑‍💻 About me
+
 - 👋 Hi, I’m @pinaakee
-- 👀 I’m interested in Machine Learning and Data Science 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on projects related to these fields.
-- 📫 Reach me on skype: pinaakee
+- 🛡️ I’m interested in Cybersecurity, SOC Operations and Threat Detection
+- 🧠 I’m currently learning SIEM, Log Analysis, Windows Security, Linux and Network Security
+- 🔍 I’m working on hands-on cybersecurity labs and SOC investigation projects
+- 🤝 I’m looking to collaborate on cybersecurity and Blue Team projects
+- 📫 Reach me on LinkedIn: linkedin.com/in/pinaakee
+
+### 📜 Certificates
+- 🏅 ISC2 Certified in Cybersecurity (CC) & Google Cybersecurity Professional Certificate
+
+### 🎓 Education
+- 🎓 B.Tech in Instrumentation from University of Delhi
+
+### ⚙️ Technical Skills
+- 🔐 Cybersecurity: SIEM, Log Analysis, Network Security, Windows Security
+- 🐍 Python, SQL, Linux/Bash, Azure, Git, Docker and CI/CD
 
 <!---
-pinaakee/pinaakee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+pinaakee/pinaakee is a ✨ special ✨ repository because its `README.md` file appears on your GitHub profile.
 --->
